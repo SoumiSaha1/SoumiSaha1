@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumiSaha1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript,css,html,c++
+- 🌱 I’m currently learning javascript,css,html,c++,React,Tailwind css
 - 💞️ I’m looking to collaborate as an intern
 - 📫 How to reach me saha26710@gmail.com
 
